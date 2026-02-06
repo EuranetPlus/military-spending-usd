@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câți bani cheltuim pe armatele noastre?",
+  "subtitle": "În 2024, cheltuielile militare totale ale țărilor Uniunii Europene au fost de aproximativ 370 miliarde USD. Pentru comparație, SUA au cheltuit 968 miliarde USD, China 317 miliarde USD și Rusia 151 miliarde USD.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Baza de date SIPRI privind cheltuielile militare prezintă cheltuielile militare anuale ale țărilor din 1949, permițând compararea cheltuielilor militare ale țărilor în monedă locală la prețuri curente; în dolari americani la prețuri și cursuri de schimb constante; ca procent din PIB; pe cap de locuitor și ca procent din cheltuielile guvernamentale. Pentru informații despre definiție, surse și metode, vă rugăm să consultați: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "milioane USD",
   "tooltipExtraInfoLabel": "Click aici"
 }
