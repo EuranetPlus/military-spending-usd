@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor mange penge bruger vi på vores hære?",
+  "subtitle": "I 2024 var de samlede militærudgifter for EU-landene ca. 370 milliarder USD. Til sammenligning brugte USA 968 milliarder USD, Kina 317 milliarder USD og Rusland 151 milliarder USD.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI's database over militærudgifter viser landenes årlige militærudgifter siden 1949 og muliggør sammenligning af landenes militærudgifter i lokal valuta til løbende priser; i amerikanske dollars til faste priser og valutakurser; som andel af BNP; pr. indbygger og som andel af de offentlige udgifter. For information om definition, kilder og metoder, se venligst: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "millioner USD",
   "tooltipExtraInfoLabel": "Klik her"
 }
