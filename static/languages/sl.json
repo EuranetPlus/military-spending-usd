@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko denarja porabimo za naše vojske?",
+  "subtitle": "Leta 2024 so skupni vojaški izdatki držav Evropske unije znašali približno 370 milijard USD. Za primerjavo, ZDA so porabile 968 milijard USD, Kitajska 317 milijard USD in Rusija 151 milijard USD.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Podatkovna baza SIPRI o vojaških izdatkih prikazuje letne vojaške izdatke držav od leta 1949, kar omogoča primerjavo vojaških izdatkov držav v lokalni valuti po tekočih cenah; v ameriških dolarjih po stalnih cenah in menjalnih tečajih; kot delež BDP; na prebivalca in kot delež državne porabe. Za informacije o definiciji, virih in metodah glejte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "milijonov ameriških dolarjev",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
