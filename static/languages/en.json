@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much money do we spend on our armies?",
+  "subtitle": "In 2024, the aggregate military expenditure of European Union countries was approx 370 bn USD. For comparison, the US spent 968 bn USD, China 317 bn USD and Russia 151 bn USD.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries’ military spending in local currency at current prices; in US dollars at constant prices and exchange rates; as a share of GDP; per capita and as a share of government spending. For information on definition, sources and methods, please see: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "million USD",
   "tooltipExtraInfoLabel": "Click here"
 }
