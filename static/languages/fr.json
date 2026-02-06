@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien d'argent dépensons-nous pour nos armées ?",
+  "subtitle": "En 2024, les dépenses militaires cumulées des pays de l'Union européenne s'élevaient à environ 370 milliards de dollars américains. À titre de comparaison, les États-Unis ont dépensé 968 milliards de dollars américains, la Chine 317 milliards et la Russie 151 milliards.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La base de données SIPRI sur les dépenses militaires présente les dépenses militaires annuelles des pays depuis 1949, permettant ainsi de comparer ces dépenses en monnaie locale aux prix courants, en dollars américains à prix et taux de change constants, en pourcentage du PIB, par habitant et en pourcentage des dépenses publiques. Pour plus d'informations sur les définitions, les sources et les méthodes, veuillez consulter : https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "millions de dollars américains",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
