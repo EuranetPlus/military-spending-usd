@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyi pénzt költünk a hadseregeinkre?",
+  "subtitle": "2024-ben az Európai Unió országainak összesített katonai kiadása körülbelül 370 milliárd USD volt. Összehasonlításképpen, az Egyesült Államok 968 milliárd USD-t, Kína 317 milliárd USD-t, Oroszország pedig 151 milliárd USD-t költött.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A SIPRI katonai kiadási adatbázisa 1949 óta tartalmazza az országok éves katonai kiadásait, lehetővé téve az országok katonai kiadásainak összehasonlítását helyi pénznemben, folyó áron; amerikai dollárban, állandó áron és árfolyamon; a GDP arányában; egy főre jutó összegben és a kormányzati kiadások arányában. A definícióval, a forrásokkal és a módszerekkel kapcsolatos információkért kérjük, lásd: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "millió USD",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
