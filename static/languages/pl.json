@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile pieniędzy wydajemy na nasze armie?",
+  "subtitle": "W 2024 roku łączne wydatki wojskowe krajów Unii Europejskiej wyniosły około 370 mld USD. Dla porównania, Stany Zjednoczone wydały 968 mld USD, Chiny 317 mld USD, a Rosja 151 mld USD.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Baza danych wydatków wojskowych SIPRI (SIPRI Military Expenditure Database) podaje roczne wydatki wojskowe poszczególnych krajów od 1949 roku, umożliwiając porównanie wydatków wojskowych w walucie lokalnej w cenach bieżących; w dolarach amerykańskich w cenach stałych i kursach walutowych; jako udział w PKB; na mieszkańca oraz jako udział w wydatkach rządowych. Informacje na temat definicji, źródeł i metod można znaleźć na stronie: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "milionów dolarów",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
