@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz naudas mēs tērējam savām armijām?",
+  "subtitle": "2024. gadā Eiropas Savienības valstu kopējie militārie izdevumi bija aptuveni 370 miljardi ASV dolāru. Salīdzinājumam, ASV iztērēja 968 miljardus ASV dolāru, Ķīna — 317 miljardus ASV dolāru un Krievija — 151 miljardu ASV dolāru.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI militāro izdevumu datubāze sniedz informāciju par valstu ikgadējiem militārajiem izdevumiem kopš 1949. gada, ļaujot salīdzināt valstu militāros izdevumus vietējā valūtā pašreizējās cenās; ASV dolāros nemainīgās cenās un valūtas kursos; kā IKP daļu; uz vienu iedzīvotāju un kā valdības izdevumu daļu. Informāciju par definīciju, avotiem un metodēm skatiet šeit: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "miljons ASV dolāru",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
