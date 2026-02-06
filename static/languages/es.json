@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánto dinero gastamos en nuestros ejércitos?",
+  "subtitle": "En 2024, el gasto militar agregado de los países de la Unión Europea fue de aproximadamente 370 000 millones de dólares. A modo de comparación, Estados Unidos gastó 968 000 millones de dólares, China 317 000 millones de dólares y Rusia 151 000 millones de dólares.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La Base de Datos de Gasto Militar del SIPRI ofrece el gasto militar anual de los países desde 1949, lo que permite comparar el gasto militar de los países en moneda local a precios corrientes; en dólares estadounidenses a precios y tipos de cambio constantes; como porcentaje del PIB; per cápita y como porcentaje del gasto público. Para obtener información sobre la definición, las fuentes y los métodos, consulte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "millones de dólares",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
