@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon rahaa käytämme armeijoihimme?",
+  "subtitle": "Vuonna 2024 Euroopan unionin maiden yhteenlasketut sotilasmenot olivat noin 370 miljardia Yhdysvaltain dollaria. Vertailun vuoksi Yhdysvallat käytti 968 miljardia dollaria, Kiina 317 miljardia dollaria ja Venäjä 151 miljardia dollaria.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "SIPRIn sotilasmenojen tietokanta sisältää tiedot maiden vuosittaisista sotilasmenoista vuodesta 1949 lähtien, ja sen avulla voidaan vertailla maiden sotilasmenoja paikallisessa valuutassa käypinä hintoina, Yhdysvaltain dollareina kiintein hinnoin ja valuuttakurssein, osuutena BKT:sta, asukasta kohden ja osuutena valtion menoista. Lisätietoja määritelmistä, lähteistä ja menetelmistä on osoitteessa: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "miljoonaa Yhdysvaltain dollaria",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
