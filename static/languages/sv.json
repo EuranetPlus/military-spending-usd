@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket pengar spenderar vi på våra arméer?",
+  "subtitle": "År 2024 uppgick de sammanlagda militära utgifterna för EU-länderna till cirka 370 miljarder USD. Som jämförelse spenderade USA 968 miljarder USD, Kina 317 miljarder USD och Ryssland 151 miljarder USD.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI:s databas över militära utgifter visar länders årliga militära utgifter sedan 1949, vilket möjliggör jämförelse av ländernas militära utgifter i lokal valuta till löpande priser; i amerikanska dollar till fasta priser och växelkurser; som andel av BNP; per capita och som andel av de offentliga utgifterna. För information om definition, källor och metoder, se: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "miljoner USD",
   "tooltipExtraInfoLabel": "Klicka här"
 }
