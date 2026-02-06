@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju raha me oma armee peale kulutame?",
+  "subtitle": "2024. aastal olid Euroopa Liidu riikide sõjalised kulutused kokku ligikaudu 370 miljardit USA dollarit. Võrdluseks, USA kulutas 968 miljardit USA dollarit, Hiina 317 miljardit USA dollarit ja Venemaa 151 miljardit USA dollarit.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI sõjaliste kulude andmebaas annab ülevaate riikide iga-aastastest sõjalistest kulutustest alates 1949. aastast, võimaldades võrrelda riikide sõjalisi kulutusi kohalikus valuutas jooksevhindades; USA dollarites püsivhindades ja vahetuskursside alusel; SKP osakaaluna; elaniku kohta ja osana valitsemissektori kulutustest. Teavet definitsiooni, allikate ja meetodite kohta leiate aadressilt: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "miljonit USA dollarit",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
