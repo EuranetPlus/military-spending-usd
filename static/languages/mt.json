@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nonfqu flus fuq l-armati tagħna?",
+  "subtitle": "Fl-2024, l-infiq militari aggregat tal-pajjiżi tal-Unjoni Ewropea kien ta’ madwar 370 biljun USD. Għal paragun, l-Istati Uniti nefqu 968 biljun USD, iċ-Ċina 317 biljun USD u r-Russja 151 biljun USD.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-Database tan-Nefqa Militari tas-SIPRI tagħti n-nefqa militari annwali tal-pajjiżi mill-1949, li tippermetti tqabbil tan-nefqa militari tal-pajjiżi fil-munita lokali bi prezzijiet kurrenti; f'dollari Amerikani bi prezzijiet u rati tal-kambju kostanti; bħala sehem tal-PDG; per capita u bħala sehem tan-nefqa tal-gvern. Għal informazzjoni dwar id-definizzjoni, is-sorsi u l-metodi, jekk jogħġbok ara: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "miljun USD",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
