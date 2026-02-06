@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek pinigų išleidžiame savo armijoms?",
+  "subtitle": "2024 m. bendros Europos Sąjungos šalių karinės išlaidos siekė apie 370 mlrd. JAV dolerių. Palyginimui, JAV išleido 968 mlrd. JAV dolerių, Kinija – 317 mlrd. JAV dolerių, o Rusija – 151 mlrd. JAV dolerių.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI karinių išlaidų duomenų bazėje pateikiamos metinės šalių karinės išlaidos nuo 1949 m., todėl galima palyginti šalių karines išlaidas vietine valiuta dabartinėmis kainomis; JAV doleriais palyginamosiomis kainomis ir valiutų kursais; kaip BVP dalis; vienam gyventojui ir kaip vyriausybės išlaidų dalis. Informacijos apie apibrėžimą, šaltinius ir metodus rasite adresu: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "SIPRI (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "milijonai JAV dolerių",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
