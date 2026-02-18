@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik peněz utrácíme za naše armády?",
+  "subtitle": "V roce 2024 dosáhly celkové vojenské výdaje zemí EU přibližně 370 miliard dolarů. Pro srovnání, USA utratily 968 miliard dolarů, Čína 317 miliard dolarů a Rusko 151 miliard dolarů.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Databáze vojenských výdajů SIPRI uvádí roční vojenské výdaje zemí od roku 1949, což umožňuje srovnání vojenských výdajů zemí v místní měně v běžných cenách; v amerických dolarech ve stálých cenách a směnných kurzech; jako podíl HDP; na obyvatele a jako podíl vládních výdajů. Informace o definici, zdrojích a metodách naleznete na adrese: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "miliardy USD",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
