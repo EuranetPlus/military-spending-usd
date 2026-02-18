@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko novca trošimo na naše vojske?",
+  "subtitle": "U 2024. godini ukupni vojni izdaci zemalja EU iznosili su oko 370 milijardi dolara. Za usporedbu, SAD su potrošile 968 milijardi dolara, Kina 317 milijardi dolara, a Rusija 151 milijardu dolara.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "SIPRI-jeva baza podataka o vojnim rashodima prikazuje godišnje vojne rashode zemalja od 1949. godine, omogućujući usporedbu vojnih rashoda zemalja u lokalnoj valuti po tekućim cijenama; u američkim dolarima po stalnim cijenama i tečajevima; kao udio BDP-a; po glavi stanovnika i kao udio državne potrošnje. Za informacije o definiciji, izvorima i metodama pogledajte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "SIPRI (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "milijardi američkih dolara",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
