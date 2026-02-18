@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad airgid a chaithimid ar ár n-arm?",
+  "subtitle": "Sa bhliain 2024, b'ionann caiteachas míleata iomlán thíortha an AE agus thart ar $370 billiún. Mar chomparáid, chaith SAM $968 billiún, an tSín $317 billiún agus an Rúis $151 billiún.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tugann Bunachar Sonraí Caiteachais Mhíleata SIPRI cuntas ar chaiteachas míleata bliantúil tíortha ó 1949 i leith, rud a chuireann ar chumas comparáid a dhéanamh idir caiteachas míleata tíortha in airgeadra áitiúil ag praghsanna reatha; i ndollair SAM ag praghsanna tairiseacha agus rátaí malairte; mar sciar den OTI; in aghaidh an duine agus mar sciar de chaiteachas an rialtais. Le haghaidh eolais faoi shainmhíniú, foinsí agus modhanna, féach le do thoil: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "billiún USD",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
